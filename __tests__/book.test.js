@@ -18,51 +18,38 @@ afterEach(async () => {
     await mongoose.connection.close();
 });
 
-describe("Requests for /api/users", () => {
-    it('GET Returns all users', async () => {
+describe("Requests for /api/books", () => {
+    it('GET Returns all books', async () => {
         const res = await request(app)
-            .get('/api/users/test');
+            .get('/api/books/test');
         expect(res.statusCode).toEqual(200);
         expect(res.body.status).toBeTruthy();
         expect(res.body.data.length).toBeGreaterThan(0);
     }, 10000);
 });
 
-describe("Tests that all users have name, ", () => {
-    it('GET Returns all users', async () => {
+describe("Tests that all books have title, ", () => {
+    it('GET Returns all books', async () => {
         const res = await request(app)
-            .get('/api/users/test');
+            .get('/api/books/test');
         expect(res.statusCode).toEqual(200);
         expect(res.body.status).toBeTruthy();
         expect(res.body.data.length).toBeGreaterThan(0);
-        res.body.data.forEach(user => {
-            expect(user.name).toBeDefined();
+        res.body.data.forEach(book => {
+            expect(book.title).toBeDefined();
         });
     }, 10000);
 });
 
-describe("Tests that all users have surname, ", () => {
-    it('GET Returns all users', async () => {
+describe("Tests that all books have author, ", () => {
+    it('GET Returns all books', async () => {
         const res = await request(app)
-            .get('/api/users/test');
+            .get('/api/books/test');
         expect(res.statusCode).toEqual(200);
         expect(res.body.status).toBeTruthy();
         expect(res.body.data.length).toBeGreaterThan(0);
-        res.body.data.forEach(user => {
-            expect(user.surname).toBeDefined();  //Expect to fail because i have a user without surname
+        res.body.data.forEach(book => {
+            expect(book.author).toBeDefined(); 
         });
     }, 10000);
-});
-
-describe("Tests that all users have email, ", () => {
-    it('GET Returns all users', async () => {
-        const res = await request(app)
-            .get('/api/users/test');
-        expect(res.statusCode).toEqual(200);
-        expect(res.body.status).toBeTruthy();
-        expect(res.body.data.length).toBeGreaterThan(0);
-        res.body.data.forEach(user => {
-            expect(user.email).toBeDefined();
-        });
-    }, 10000);
-});
+}); 

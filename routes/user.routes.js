@@ -6,6 +6,7 @@ const verifyToken = require('../middlewares/auth.middleware').verifyToken
 const verifyRoles = require('../middlewares/auth.middleware').verifyRoles;
 
 router.get('/',verifyToken, userController.findAll);
+router.get('/test/', userController.findAll);
 router.get('/:username', verifyToken, userController.findOne);
 // router.post('/',userController.create);
 // router.post('/', verifyToken, verifyRoles("ADMIN"), userController.create);

@@ -3,6 +3,7 @@ const authService = require('../services/auth.service');
 
 function verifyToken(req, res, next) {
   
+
   const authHeader = req.headers['authorization'];
   // console.log("REQ 1>>>>", req);
   const token = authHeader && authHeader.split(' ')[1];

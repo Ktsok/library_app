@@ -1,330 +1,372 @@
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 19:55:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 19:55:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 19:55:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"01-08-2025 19:56:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"01-08-2025 19:56:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 19:56:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"01-08-2025 19:58:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"01-08-2025 19:58:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 19:58:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:10:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:10:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:10:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:14:2525"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:14:2525"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:14:2525"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:20:2222"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:20:2222"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:20:2222"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:20:4141"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:20:4141"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:20:4141"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:29:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:29:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:29:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:29:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:29:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:29:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:30:5050"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:30:5050"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:30:5050"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:31:4848"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:31:4848"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:31:4848"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:32:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:32:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:32:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"01-08-2025 21:01:1010"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"01-08-2025 21:01:1010"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"01-08-2025 21:01:1010"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 17:03:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 17:03:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:03:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:17:2929"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:17:2929"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:17:2929"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:24:1111"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:24:1111"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:24:1111"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:26:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:26:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:26:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:27:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:27:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:27:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:27:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:27:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:27:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:28:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:28:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:28:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:46:1515"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:46:1515"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:46:1515"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:48:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:48:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:48:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:48:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:48:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:48:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:48:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:48:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:48:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:58:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:58:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:58:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:58:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:58:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:58:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:59:5959"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:59:5959"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:59:5959"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:00:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:00:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:00:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:00:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:00:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:00:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:00:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:00:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:00:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:04:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:04:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:04:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:05:3333"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:05:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3636"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3636"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:05:3636"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:05:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:10:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:10:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3434"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3636"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3636"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3636"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3737"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3838"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3838"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3838"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4343"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4545"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4545"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4545"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:31:1818"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:31:1818"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:31:1818"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:1818"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:31:1818"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:1818"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2020"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:31:2020"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2020"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2020"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:31:2020"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2020"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:31:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:31:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2121"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2222"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2222"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2222"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:33:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:33:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:33:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:33:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:33:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:33:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:33:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:33:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:044"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:33:055"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:33:055"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:055"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:33:066"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:33:066"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:066"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:33:066"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:33:066"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:066"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:34:077"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:34:077"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:077"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:34:077"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:34:077"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:077"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:34:088"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:34:088"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:088"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:34:088"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:34:088"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:088"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:34:099"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:34:099"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:099"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:34:1010"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:34:1010"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:1010"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:34:1111"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:34:1111"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:1111"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:35:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:35:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:35:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:35:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:4949"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:35:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:35:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5151"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:35:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:35:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5252"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5353"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5353"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5353"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4444"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4646"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4747"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4848"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4848"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4848"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:011"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:022"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:033"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:055"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:055"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:055"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5454"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5555"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5656"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5858"}
-{"label":"MY LABEL FOR PRODUCTS APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 19:55:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 19:55:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 19:55:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"01-08-2025 19:56:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"01-08-2025 19:56:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 19:56:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"01-08-2025 19:58:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"01-08-2025 19:58:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 19:58:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:10:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:10:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:10:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:14:2525"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:14:2525"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:14:2525"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:20:2222"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:20:2222"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:20:2222"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:20:4141"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:20:4141"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:20:4141"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:29:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:29:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:29:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:29:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:29:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:29:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:30:5050"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:30:5050"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:30:5050"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:31:4848"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:31:4848"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:31:4848"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"01-08-2025 20:32:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"01-08-2025 20:32:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 20:32:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"01-08-2025 21:01:1010"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"01-08-2025 21:01:1010"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"01-08-2025 21:01:1010"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 17:03:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 17:03:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:03:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:17:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:17:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:17:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:24:1111"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:24:1111"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:24:1111"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:26:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:26:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:26:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:27:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:27:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:27:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:27:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:27:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:27:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:28:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:28:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:28:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:46:1515"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:46:1515"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:46:1515"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:48:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:48:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:48:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:48:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:48:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:48:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:48:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:48:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:48:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:58:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:58:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:58:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:58:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:58:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:58:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 17:59:5959"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 17:59:5959"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 17:59:5959"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:00:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:00:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:00:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:00:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:00:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:00:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:00:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:00:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:00:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:04:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:04:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:04:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:05:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:05:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3636"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3636"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:05:3636"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:05:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:05:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:10:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:10:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3636"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3636"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3636"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3737"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3838"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:10:3838"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:10:3838"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:27:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:27:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:27:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4343"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4545"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:28:4545"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4545"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:28:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:28:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:31:1818"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:31:1818"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:31:1818"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:1818"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:31:1818"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:1818"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2020"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:31:2020"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2020"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2020"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:31:2020"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2020"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:31:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:31:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2121"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2222"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:31:2222"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:31:2222"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:33:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:33:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:33:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:33:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:33:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:33:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:33:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:33:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:044"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:33:055"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:33:055"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:055"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:33:066"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:33:066"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:066"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:33:066"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:33:066"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:33:066"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:34:077"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:34:077"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:077"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:34:077"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:34:077"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:077"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:34:088"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:34:088"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:088"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:34:088"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:34:088"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:088"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:34:099"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:34:099"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:099"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:34:1010"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:34:1010"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:1010"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:34:1111"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:34:1111"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:34:1111"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:35:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:35:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:35:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:35:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:4949"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:35:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:35:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5151"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:35:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:35:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5252"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5353"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:35:5353"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:35:5353"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:36:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:36:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:36:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4444"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4646"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:49:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4848"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:49:4848"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:49:4848"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:011"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:022"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:033"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:055"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:055"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:055"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5454"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5555"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"19-08-2025 18:51:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5656"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"19-08-2025 18:51:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"19-08-2025 18:51:5858"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"20-08-2025 18:31:3131"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"20-08-2025 18:31:3131"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"20-08-2025 18:31:3131"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:31:3131"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"20-08-2025 18:31:3131"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:31:3131"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"20-08-2025 18:31:3232"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"20-08-2025 18:31:3232"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:31:3232"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"20-08-2025 18:31:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"20-08-2025 18:31:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:31:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"20-08-2025 18:31:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"20-08-2025 18:31:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:31:3333"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"20-08-2025 18:31:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"20-08-2025 18:31:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:31:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"20-08-2025 18:31:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"20-08-2025 18:31:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:31:3434"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"20-08-2025 18:48:2727"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"20-08-2025 18:48:2727"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"20-08-2025 18:48:2727"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:48:2727"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"20-08-2025 18:48:2727"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:48:2727"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"20-08-2025 18:48:2828"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"20-08-2025 18:48:2828"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"20-08-2025 18:48:2828"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:48:2828"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"20-08-2025 18:48:2828"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:48:2828"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"20-08-2025 18:48:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"20-08-2025 18:48:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"20-08-2025 18:48:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:48:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"20-08-2025 18:48:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:48:2929"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all users","timestamp":"20-08-2025 18:48:3030"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"20-08-2025 18:48:3030"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"20-08-2025 18:48:3030"}

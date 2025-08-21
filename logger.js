@@ -38,7 +38,7 @@ require('winston-daily-rotate-file');
 require('winston-mongodb')
 const { format, createLogger, transports } = require('winston');
 const { combine, timestamp, label, printf, prettyPrint } = format;
-const CATEGORY  = "Products app logs";
+const CATEGORY  = "Library app logs";
 
 const fileRotateTransport = new transports.DailyRotateFile({
   filename: "./logs/rotate-%DATE%.log",
@@ -49,7 +49,7 @@ const fileRotateTransport = new transports.DailyRotateFile({
 
 const logger = createLogger({
   format: combine(
-    label({label: "MY LABEL FOR PRODUCTS APP"}),
+    label({label: "MY LABEL FOR LIBRARY APP"}),
     timestamp({format:"DD-MM-YYYY HH:mm:sss"}),
     format.json()
     // prettyPrint()

@@ -20,19 +20,19 @@ let rentalSchema = new Schema({
         lowercase: true,
     },
     rentalTo: {
-        type: Date,
+        type: String,
         required: [true, "Rental to is required field"],
         max: 20
     },
     rentalFrom: {
-        type: Date,
+        type: String,
         required: [true, "Rental from  is required field"],
     },
     
 },
 {
-    collection: 'rental',
+    collection: 'rentals',
     timestamps: true
 })
 
-module.exports = mongoose.model('rental', rentalSchema)
+module.exports = mongoose.model('Rental', rentalSchema)

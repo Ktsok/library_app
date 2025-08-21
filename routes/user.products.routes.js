@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const userProductController = require('../controllers/book.rental.controller');
+const userProductController = require('../controllers/rental.controller');
 
 router.get('/', userProductController.findAll);
 router.get('/:username', userProductController.findOne);

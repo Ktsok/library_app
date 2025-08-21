@@ -5,8 +5,8 @@ function findAll() {
   return result;
 }
 
-function findOne(book) {
-  const result = Rental.findOne({book:book});
+function findOne(id) {
+  const result = Rental.findOne({_id:id});
   return result;
 }
 

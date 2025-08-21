@@ -10,7 +10,7 @@ const swaggerDocument = require('./swagger');
 
 const user = require('./routes/user.routes');
 const book = require('./routes/book.routes');
-const bookRental = require('./routes/book.rentals.routes')
+const rental = require('./routes/rentals.routes')
 const auth = require('./routes/auth.routes');
 
 app.use(cors({
@@ -21,7 +21,7 @@ app.use(cors({
 app.use('/api/auth', auth);
 app.use('/api/users', user);
 app.use('/api/books', book);
-app.use('/api/book-rental', bookRental);
+app.use('/api/rentals', rental);
 
 app.use('/', express.static('files'))
 

@@ -8,6 +8,6 @@ router.get('/test/', rentalController.findAll);
 router.get('/:title', rentalController.findOne);
 router.post('/', rentalController.create); 
 router.patch('/:title', rentalController.update);
-router.delete('/:title/rentals/:id', rentalController.delete);
+router.delete('/:id', rentalController.delete);
 
 module.exports = router;

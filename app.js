@@ -14,8 +14,8 @@ const rental = require('./routes/rentals.routes')
 const auth = require('./routes/auth.routes');
 
 app.use(cors({
-  origin: '*'
-  // origin: ['http://localhost:4200']
+  // origin: '*'
+  origin: 'http://localhost:5173'
 }))
 
 app.use('/api/auth', auth);

@@ -10,6 +10,7 @@ router.get('/test/', bookController.findAll);
 router.get('/:title', verifyToken, bookController.findOne);
 router.post('/', bookController.create);
 router.patch('/', verifyToken, verifyRoles("ADMIN"), bookController.update);
-router.delete('/', verifyToken, verifyRoles("ADMIN"), bookController.deleteByTitle);
+router.delete('/:id', verifyToken, verifyRoles("ADMIN"), bookController.deleteById);
+
 
 module.exports = router; 

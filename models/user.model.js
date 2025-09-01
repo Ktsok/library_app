@@ -12,12 +12,14 @@ let phoneSchema = new Schema({
     number: {type:String}
 }, { _id: false });
 
-let productsSchema = new Schema({
-    product: { type: String },
-    cost: { type: Number },
-    quantity: { type: Number, required: true },
-    date: { type: Date, default: Date.now}
-})
+let booksSchema = new Schema({
+    title: { type: String },
+    author: { type: String },
+    isbn: { type: String },
+    publishedDate: { type: Date },
+    quantity: { type: Number },
+    availability: { type: Number }
+    })
 
 
 let userSchema = new Schema({
@@ -53,8 +55,7 @@ let userSchema = new Schema({
         lowercase: true
     },
     adress: adressSchema,
-    phone: { type: [phoneSchema], null: true },
-    products: { type: [productsSchema], null: true },
+    phone: phoneSchema,
     roles: {type: [String], null: true}
 },
 {

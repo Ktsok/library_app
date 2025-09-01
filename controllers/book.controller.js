@@ -113,4 +113,16 @@ exports.deleteByISBN = async(req, res) => {
   }
 }
 
+exports.deleteById = async(req, res) => {
+  const id = req.params.id;
+  console.log("Delete book by ID", id); 
+  try {
+    const result = await Book.findByIdAndDelete(id);
+    res.status(200).json({status:true, data: result});
+  } catch (err) {
+    console.log("Problem in deleting book", err);
+    res.status(400).json({status: false, data: err});
+  }
+} 
+
 

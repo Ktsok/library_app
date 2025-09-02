@@ -22,12 +22,13 @@ exports.findAll = async(req, res) => {
 }
 
 exports.findOne = async(req, res) => {
-  console.log("Find book with specific title");
-  let title = req.params.title;
+  console.log("Find book with specific id");
+  let id = req.params.id;
+  console.log("Book id", id);
 
   try {
-    // const result = await Book.findOne({title: title});
-    const result = await bookService.findOne(title);
+    // const result = await Book.findOne({id: id});
+    const result = await bookService.findOne(id);
     if (result) {
       res.status(200).json({status:true, data: result});
     } else {
@@ -63,9 +64,9 @@ exports.create = async(req, res) => {
 }
 
 exports.update = async(req, res) => {
-  const title = req.body.title;
+  const id = req.body.id;
 
-  console.log("Update book with title", title);
+  console.log("Update book with id", id);
 
   const updateBook = {
     title: req.body.title,
@@ -73,11 +74,11 @@ exports.update = async(req, res) => {
     isbn: req.body.isbn,
     publishedDate: req.body.publishedDate,
     quantity: req.body.quantity,
-    availability: req.body.availability
+    // availability: req.body.availability
   };
 
   try {
-    const result = await Book.findOneAndUpdate({title: title}, updateBook, {new:true});
+    const result = await Book.findOneAndUpdate({id: id}, updateBook, {new:true});
     res.status(200).json({status:true, data:result});
   } catch (err) {
     console.log("Problem in updating book", err);

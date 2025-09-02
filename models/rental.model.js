@@ -8,7 +8,6 @@ let rentalSchema = new Schema({
         type: String,
         required: [true, "User is required field"],
         max: 50,
-        unique: true,
         trim: true,
         lowercase: true,
     },

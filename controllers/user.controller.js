@@ -22,12 +22,12 @@ exports.findAll = async(req, res) => {
 }
 
 exports.findOne = async(req, res) => {
-  console.log("Find user with specific username");
-  let username = req.params.username;
+  console.log("Find user with specific id");
+  let id = req.params.id;
 
   try {
-    // const result = await User.findOne({username: username});
-    const result = await userService.findOne(username);
+    // const result = await User.findOne({id: id});
+    const result = await userService.findOne(id);
     if (result) {
       res.status(200).json({status:true, data: result});
     } else {
@@ -57,10 +57,16 @@ exports.create = async(req, res) => {
     address: {
       area: data.address.area,
       road: data.address.road
+    },
+    phone: {
+      type: data.phone.type,
+      number: data.phone.number
     }
   });
 
   try{
+    newUser.markModified('phone');
+    newUser.markModified('address');
     const result = await newUser.save();
     res.status(200).json({status: true, data: result});
   } catch (err) {
@@ -70,28 +76,47 @@ exports.create = async(req, res) => {
 }
 
 exports.update = async(req, res) => {
-  const username = req.body.username;
+  const id = req.params.id;
 
-  console.log("Update user with username", username);
+  console.log("Update user with id", id);
 
-  const updateUser = {
-    name: req.body.name,
-    surname: req.body.surname,
-    email: req.body.email,
-    address: {
-      area: req.body.address.area,
-      road: req.body.address.road
+  // Build the update object with $set operator
+  const updateData = {
+    $set: {
+      name: req.body.name,
+      surname: req.body.surname,
+      email: req.body.email,
+      'address.area': req.body.address?.area,
+      'address.road': req.body.address?.road,
+      'phone.type': req.body.phone?.type,
+      'phone.number': req.body.phone?.number
     }
   };
 
+  // If password is provided, hash and add it to updateData
+  if (req.body.password) {
+    const SaltOrRounds = 10;
+    updateData.$set.password = await bcrypt.hash(req.body.password, SaltOrRounds);
+  }
+
   try {
-    const result = await User.findOneAndUpdate({username: username}, updateUser, {new:true});
-    res.status(200).json({status:true, data:result});
+    const result = await User.findByIdAndUpdate(
+      id, 
+      updateData, 
+      { new: true, runValidators: true }
+    );
+    
+    if (!result) {
+      return res.status(404).json({ status: false, data: "User not found" });
+    }
+    
+    res.status(200).json({ status: true, data: result });
   } catch (err) {
     console.log("Problem in updating user", err);
-    res.status(400).json({status:false, data: err});
+    res.status(400).json({ status: false, data: err.message });
   }
 }
+
 
 exports.deleteByUsername = async(req, res) => {
     const username = req.params.username

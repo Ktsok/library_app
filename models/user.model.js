@@ -54,7 +54,7 @@ let userSchema = new Schema({
         trim: true,
         lowercase: true
     },
-    adress: adressSchema,
+    address: adressSchema,
     phone: phoneSchema,
     roles: {type: [String], null: true}
 },

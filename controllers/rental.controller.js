@@ -52,18 +52,19 @@ exports.create = async(req, res) => {
   });
 
   try{
-    const result = await newBook.save();
+    const result = await newRental.save();
     res.status(200).json({status: true, data: result});
   } catch (err) {
-    console.log("Problem in creating book", err);
+    console.log("Problem in creating rental", err);
     res.status(400).json({status: false, data: err});
   }
 }
 
 exports.update = async(req, res) => {
-  const title = req.body.title;
+  const id = req.body.id;
 
-  console.log("Update rental with title", title);
+  console.log("Update rental with id", id);
+  let data = req.body;
 
   const updateRental = {
     title: data.title,

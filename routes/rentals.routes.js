@@ -7,7 +7,7 @@ router.get('/', rentalController.findAll);
 router.get('/test/', rentalController.findAll);
 router.get('/:title', rentalController.findOne);
 router.post('/', rentalController.create); 
-router.patch('/:title', rentalController.update);
+router.put('/:id', rentalController.update);
 router.delete('/:id', rentalController.delete);
 
 module.exports = router;

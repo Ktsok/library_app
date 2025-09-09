@@ -10,6 +10,11 @@ function findOne(id) {
   return result;
 }
 
+function findOneByTitle(title) {
+  const result = Book.findOne({title:title});
+  return result;
+} 
+
 async function findLastInsertedBook(){
   console.log("Find last inserted book");
 
@@ -23,4 +28,4 @@ async function findLastInsertedBook(){
   }
 }
 
-module.exports = { findAll, findOne, findLastInsertedBook }
+module.exports = { findAll, findOne, findLastInsertedBook, findOneByTitle }

@@ -1,4 +1,5 @@
-This is a NodeJs server application that exposes an API, stores and retrieves data from a MongoDB and implements authentication, authorization and testing. 
+<h1>Library App</h1>
+<b>This is a NodeJs server application that exposes an API, stores and retrieves data from a MongoDB and implements authentication, authorization and testing. </b>
 It uses: 
 1) "bcrypt": "5.1.1",
 2) "cors": "^2.8.5",
@@ -16,13 +17,13 @@ It uses:
 14) "jest": "^29.7.0",
 15) "supertest": "^7.1.4"
 
-The API documentation can be found at /api-docs, this is a brief list of the supported end points: 
+<b>The API documentation can be found at /api-docs, this is a brief list of the supported end points: </b>
 <img width="1522" height="1106" alt="image" src="https://github.com/user-attachments/assets/44c3ebd1-c3a7-4a68-b9e6-b2d59882b8dc" />
 
-The application was implemented and tested using the following versions of Node and npm:
+<b> The application was implemented and tested using the following versions of Node and npm: </b>
 Node: v18.20.8
 npm: 10.8.2
 
-After forked, run npm -i inside the application's root folder, then run:
+<b>After forked, run npm -i inside the application's root folder, then run: </b>
 npm run test: to execute the tests,
 npm run dev: to serve the application.

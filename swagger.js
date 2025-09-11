@@ -1,10 +1,14 @@
 const m2s = require('mongoose-to-swagger');
 const User = require('./models/user.model');
+const Book = require('./models/book.model'); // Import the Book model
+const Rental = require('./models/rental.model'); // Import the Rental model
 
 exports.options = {
   "components": {
     "schemas": {
-      User: m2s(User)
+      User: m2s(User),
+      Book: m2s(Book), // Add Book schema
+      Rental: m2s(Rental) // Add Rental schema
     },
     "securitySchemes": {
       "bearerAuth": {
@@ -20,8 +24,8 @@ exports.options = {
   "openapi":"3.1.0",
   "info":{
     "version": "1.0.0",
-    "title": "Users and Products CRUD API",
-    "description":"An application for creating users and choosing product",
+    "title": "CRUD API for Library management",
+    "description":"An application for library management",
     "contact": {
       "name": "API Support",
       "url": "https://aueb.gr",
@@ -44,8 +48,12 @@ exports.options = {
       "description": "Endpoints for User"
     },
     {
-      "name": "Users and Products",
-      "description": "Endpoints for users and their products"
+      "name": "Books",
+      "description": "Endpoints for books"
+    },
+    {
+      "name": "Rentals",
+      "description": "Endpoints for rentals"
     },
     {
       "name":"Auth",
@@ -53,6 +61,7 @@ exports.options = {
     }
   ],
   "paths": {
+    // ========== USER PATHS (Your existing code) ==========
     "/api/users": {
       "get": {
         "tags":["Users"],
@@ -118,19 +127,19 @@ exports.options = {
         }
       }      
     },
-    "/api/users/{username}":{
+    "/api/users/{id}":{
       "get": {
         "tags": ["Users"],
         "parameters": [
           {
-            "name": "username",
+            "name": "id",
             "in":"path",
             "required":true,
-            "description": "Username of user that we want to find",
-            "type": "string"
+            "description": "Id of user that we want to find",
+            "schema": { "type": "string" } // Fixed: 'type' -> 'schema'
           }
         ],
-        "description": "Returns users details for specific username",
+        "description": "Returns users details for specific id",
         "responses": {
           "200": {
             "description": "User details",
@@ -149,11 +158,11 @@ exports.options = {
         "description": "Update user",
         "parameters":[
           {
-            "name":"username",
+            "name":"id",
             "in":"path",
             "required":true,
-            "description": "Username of user that can update",
-            "type":"string"
+            "description": "Id of user that can update",
+            "schema": { "type": "string" } // Fixed: 'type' -> 'schema'
           }
         ],
         "requestBody":{
@@ -182,7 +191,7 @@ exports.options = {
         },
         "responses":{
           "200":{
-            "descripiton": "Update user"
+            "description": "Update user" // Fixed typo: 'descripiton'
           }
         }
       },
@@ -191,10 +200,10 @@ exports.options = {
         "description": "Delete user from DB",
         "parameters": [
           {
-            "name": "username",
+            "name": "id",
             "in":"path",
             "description": "User to delete",
-            "type": "string",
+            "schema": { "type": "string" }, // Fixed: 'type' -> 'schema'
             "required": true
           }
         ],
@@ -205,6 +214,224 @@ exports.options = {
         }
       }
     },
+
+    // ========== BOOK PATHS (Newly added) ==========
+    "/api/books": {
+      "get": {
+        "tags":["Books"],
+        "description":"Returns a list of all books",
+        "responses":{
+          "200":{
+            "description": "List of all books",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type":"array",
+                  "items": {
+                    "$ref":"#/components/schemas/Book"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post":{
+        "tags": ["Books"],
+        "description": "Create a new book",
+        "requestBody":{
+          "description": "JSON with book data",
+          "content": {
+            "application/json": {
+              "schema":{
+                "$ref":"#/components/schemas/Book"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Book created successfully",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref":"#/components/schemas/Book"
+                }
+              }
+            }
+          }
+        }
+      }      
+    },
+    "/api/books/{id}":{
+      "get": {
+        "tags": ["Books"],
+        "parameters": [
+          {
+            "name": "id",
+            "in":"path",
+            "required":true,
+            "description": "ID of the book to retrieve",
+            "schema": { "type": "string" }
+          }
+        ],
+        "description": "Returns details for a specific book",
+        "responses": {
+          "200": {
+            "description": "Book details",
+            "content":{
+              "application/json":{
+                "schema": {
+                  "$ref":"#/components/schemas/Book"
+                }
+              }
+            }            
+          }
+        }
+      },
+      "patch":{
+        "tags": ["Books"],
+        "description": "Update a book's details",
+        "parameters":[
+          {
+            "name":"id",
+            "in":"path",
+            "required":true,
+            "description": "ID of the book to update",
+            "schema": { "type": "string" }
+          }
+        ],
+        "requestBody":{
+          "description":"Data of book to update",
+          "content": {
+            "application/json":{
+              "schema": {
+                "$ref":"#/components/schemas/Book"
+              }
+            }
+          }
+        },
+        "responses":{
+          "200":{
+            "description": "Book updated successfully"
+          }
+        }
+      },
+      "delete": {
+        "tags": ["Books"],
+        "description": "Delete a book from the library",
+        "parameters": [
+          {
+            "name": "id",
+            "in":"path",
+            "description": "ID of the book to delete",
+            "schema": { "type": "string" },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description":"Book deleted successfully"
+          }
+        }
+      }
+    },
+
+    // ========== RENTAL PATHS (Newly added) ==========
+    "/api/rentals": {
+      "get": {
+        "tags":["Rentals"],
+        "description":"Returns a list of all rentals",
+        "responses":{
+          "200":{
+            "description": "List of all rentals",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type":"array",
+                  "items": {
+                    "$ref":"#/components/schemas/Rental"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post":{
+        "tags": ["Rentals"],
+        "description": "Create a new rental record",
+        "requestBody":{
+          "description": "JSON with rental data",
+          "content": {
+            "application/json": {
+              "schema":{
+                "$ref":"#/components/schemas/Rental"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Rental created successfully",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref":"#/components/schemas/Rental"
+                }
+              }
+            }
+          }
+        }
+      }      
+    },
+    "/api/rentals/{id}":{
+      "get": {
+        "tags": ["Rentals"],
+        "parameters": [
+          {
+            "name": "id",
+            "in":"path",
+            "required":true,
+            "description": "ID of the rental record to retrieve",
+            "schema": { "type": "string" }
+          }
+        ],
+        "description": "Returns details for a specific rental",
+        "responses": {
+          "200": {
+            "description": "Rental details",
+            "content":{
+              "application/json":{
+                "schema": {
+                  "$ref":"#/components/schemas/Rental"
+                }
+              }
+            }            
+          }
+        }
+      },
+      "delete": {
+        "tags": ["Rentals"],
+        "description": "Delete a rental record (e.g., when a book is returned)",
+        "parameters": [
+          {
+            "name": "id",
+            "in":"path",
+            "description": "ID of the rental record to delete",
+            "schema": { "type": "string" },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description":"Rental record deleted successfully"
+          }
+        }
+      }
+    },
+
+    // ========== AUTH PATH (Your existing code) ==========
     "/api/auth/login": {
       "post": {
         "tags": ["Auth"],
@@ -227,28 +454,6 @@ exports.options = {
         "responses": {
           "200": {
             "description": "Token returned"
-          }
-        }
-      }
-    },
-    "/api/user-product/{username}":{
-      "get": {
-        "tags": ["Users and Products"],
-        "parameters": [
-          {
-            "name":"username",
-            "in":"path",
-            "required": true,
-            "description": "Find user and products",
-            "type": "string"
-          }
-        ],
-        "responses":{
-          "200": {
-            "description": "User ans Products",
-            "schema":{
-              "$ref": "#/components/schemas/User"
-            }
           }
         }
       }

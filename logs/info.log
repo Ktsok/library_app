@@ -3223,3 +3223,6 @@
 {"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all rentals","timestamp":"09-09-2025 17:53:4747"}
 {"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all rentals","timestamp":"09-09-2025 17:53:4747"}
 {"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"09-09-2025 17:53:4747"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"info","message":"Success in reading all books","timestamp":"11-09-2025 19:05:000"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"11-09-2025 19:05:000"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"11-09-2025 19:05:000"}

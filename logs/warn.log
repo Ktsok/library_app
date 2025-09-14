@@ -2150,3 +2150,11 @@
 {"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"09-09-2025 17:53:4747"}
 {"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"11-09-2025 19:05:000"}
 {"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"11-09-2025 19:05:000"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"14-09-2025 17:37:1919"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"14-09-2025 17:37:1919"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all books","timestamp":"14-09-2025 17:37:2626"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"14-09-2025 17:37:2626"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all rentals","timestamp":"14-09-2025 17:40:1010"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"14-09-2025 17:40:1010"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"warn","message":"Success in reading all users","timestamp":"14-09-2025 17:41:5353"}
+{"label":"MY LABEL FOR LIBRARY APP","level":"error","message":"Message with error","timestamp":"14-09-2025 17:41:5353"}

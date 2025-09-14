@@ -8,7 +8,7 @@
 	},
 	"item": [
 		{
-			"name": "Get Users",
+			"name": "Get Users test",
 			"event": [
 				{
 					"listen": "test",
@@ -84,7 +84,7 @@
 			"response": []
 		},
 		{
-			"name": "Post data",
+			"name": "Post book",
 			"event": [
 				{
 					"listen": "test",
@@ -324,7 +324,7 @@
 			"response": []
 		},
 		{
-			"name": "Get all rentals",
+			"name": "Get all rentals test",
 			"request": {
 				"method": "GET",
 				"header": []
@@ -344,6 +344,52 @@
 			"request": {
 				"method": "GET",
 				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Rentals",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Users",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/api/users?authorization=bearer {{token}}",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"users"
+					],
+					"query": [
+						{
+							"key": "authorization",
+							"value": "bearer {{token}}"
+						}
+					]
+				}
 			},
 			"response": []
 		}
